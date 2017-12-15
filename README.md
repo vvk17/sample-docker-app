@@ -1,3 +1,3 @@
-# Sample Server
+# Sample Docker Server
 
-This is a sample server written in NodeJS with ExpressJS.
+This is a sample docker container server living in a K8s clıuster.
