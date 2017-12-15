@@ -1,0 +1,22 @@
+{
+  "name": "sample-docker-app",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.ibm.com/Cemre-Goc/sample-docker-app.git"
+  },
+  "keywords": [
+    "IBM",
+    "Cloud"
+  ],
+  "author": "IBM",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
